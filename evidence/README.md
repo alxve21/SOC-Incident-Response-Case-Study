@@ -1,6 +1,6 @@
 # Evidence Handling
 
-**SIMULATED / TABLETOP CASE.** No incident evidence is included in this repository.
+**SIMULATED / TABLETOP CASE.** This repository contains no evidence that a real incident occurred. The main README links sanitized screenshots of separate local Splunk lab telemetry; those captures are not evidence for the tabletop sequence.
 
 Do not upload fabricated screenshots, sample logs presented as real, credentials, tokens, private keys, or unnecessary personal information. If an authorized exercise produces genuine evidence, preserve the original securely and publish only sanitized material suitable for a public portfolio.
 
