@@ -1,6 +1,6 @@
 # Timeline — Tabletop Sequence
 
-> **SIMULATED / TABLETOP ONLY.** These stages are hypothetical. No actual timestamps, usernames, hosts, IP addresses, counts, or event records are supplied.
+> **SIMULATED / TABLETOP ONLY.** These stages are hypothetical. No timestamps, usernames, hosts, IP addresses, counts, or event records are assigned to the hypothetical stages. Separate local Splunk observations are documented in the repository README and do not populate this timeline.
 
 | Order | Hypothetical signal | Starting status | Validation needed |
 |---|---|---|---|
