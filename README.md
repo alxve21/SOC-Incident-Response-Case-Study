@@ -1,6 +1,6 @@
 # SOC Incident Response Case Study
 
-**SIMULATED / TABLETOP TRAINING CASE — not a real incident and not production SOC work.** This case applies practiced incident-response concepts to a hypothetical multi-stage alert scenario. No user-environment evidence or exact event values are represented. The no-evidence statement refers to the tabletop scenario. The Splunk observations below are separate local-lab telemetry and do not confirm any scenario stage.
+**SIMULATED / TABLETOP TRAINING CASE — not a real incident and not production SOC work.** This case applies incident-response concepts to a hypothetical multi-stage alert scenario. Every stage in the tabletop sequence remains unverified; no user-environment evidence is assigned to those stages. Separate local Splunk lab observations appear below and do not show that the hypothetical sequence occurred.
 
 ## Case materials
 
