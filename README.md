@@ -32,11 +32,6 @@ The arrows describe a tabletop hypothesis only. Validate each stage independentl
 
 Use **CONFIRMED**, **LIKELY**, **SUSPICIOUS**, **POSSIBLE**, and **REQUIRES VERIFICATION** as evidence-calibrated labels. This scenario begins with every proposed stage requiring verification.
 
-## Training disclaimer
-
-This is a simulated portfolio exercise for authorized training. It is not a report of production SOC employment, a real compromise, or a completed investigation. Do not substitute hypothetical details for actual evidence.
-
-
 ## Splunk validation — local lab observations
 
 The following genuine Splunk Enterprise screenshots were captured in the local lab on 2026-10-19. They document the displayed searches and results only. They do not validate or corroborate the hypothetical tabletop sequence above.
