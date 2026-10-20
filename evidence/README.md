@@ -1,16 +1,7 @@
-# Evidence Handling
+# Evidence
 
-**SIMULATED / TABLETOP CASE.** This repository contains no evidence that a real incident occurred. The main README links sanitized screenshots of separate local Splunk lab telemetry; those captures are not evidence for the tabletop sequence.
+This folder contains no case evidence files. The screenshots linked from the main README come from a separate local Splunk lab; they document those searches only and do not support the hypothetical incident described here.
 
-Do not upload fabricated screenshots, sample logs presented as real, credentials, tokens, private keys, or unnecessary personal information. If an authorized exercise produces genuine evidence, preserve the original securely and publish only sanitized material suitable for a public portfolio.
+For any future authorized exercise, keep original records in a restricted location. If a sanitized item is suitable for this public portfolio, record where it came from, when and how it was collected, its original identifier, any redactions, and which finding it supports. Record a hash only when one was actually calculated.
 
-For each item retained in a controlled case record, document:
-
-- Source system and data type
-- Collector and collection time with time zone
-- Original filename or event identifier
-- Integrity hash when appropriate and actually calculated
-- Transfer, storage, access, and redaction history
-- Link between the evidence and the conclusion it supports
-
-This public repository is not a secure evidence store. Keep sensitive originals in an approved restricted location.
+Do not publish credentials, tokens, private keys, or personal information. This repository is public and is not a secure evidence store.
